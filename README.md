@@ -17,4 +17,4 @@ moche()
 
 ```
 
-<img src="https://in.pinterest.com/pin/346425396346037671" alt="3 personne sur un ordinateur qui defile du text non lisible qu'on pense ètre du code"/>
+<img src="https://in.pinterest.com/pin/346425396346037671/" alt="3 personne sur un ordinateur qui defile du text non lisible qu'on pense ètre du code"/>
